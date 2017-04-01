@@ -1,0 +1,78 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7633
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Krasi\Desktop\FinalVersion-exe\roboticjump32_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Krasi\Desktop\FinalVersion-exe\roboticjump32_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Krasi\Desktop\FinalVersion-exe\roboticjump32_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Krasi\Desktop\FinalVersion-exe\roboticjump32_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Krasi\Desktop\FinalVersion-exe\roboticjump32_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Krasi\Desktop\FinalVersion-exe\roboticjump32_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Krasi\Desktop\FinalVersion-exe\roboticjump32_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Krasi\Desktop\FinalVersion-exe\roboticjump32_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Krasi\Desktop\FinalVersion-exe\roboticjump32_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Krasi\Desktop\FinalVersion-exe\roboticjump32_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Krasi\Desktop\FinalVersion-exe\roboticjump32_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Krasi\Desktop\FinalVersion-exe\roboticjump32_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.029 seconds
+Platform assembly: C:\Users\Krasi\Desktop\FinalVersion-exe\roboticjump32_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Krasi\Desktop\FinalVersion-exe\roboticjump32_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.478124 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.744594 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 339.
+Total: 0.240197 ms (FindLiveObjects: 0.038321 ms CreateObjectMapping: 0.015012 ms MarkObjects: 0.179358 ms  DeleteObjects: 0.007506 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.618666 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 331.
+Total: 0.358321 ms (FindLiveObjects: 0.058469 ms CreateObjectMapping: 0.019358 ms MarkObjects: 0.269827 ms  DeleteObjects: 0.009876 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.549136 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 298.
+Total: 0.540444 ms (FindLiveObjects: 0.095604 ms CreateObjectMapping: 0.020938 ms MarkObjects: 0.400592 ms  DeleteObjects: 0.021728 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.418370 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 331.
+Total: 0.267456 ms (FindLiveObjects: 0.045037 ms CreateObjectMapping: 0.028444 ms MarkObjects: 0.186469 ms  DeleteObjects: 0.007111 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.367407 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 0.197135 ms (FindLiveObjects: 0.030814 ms CreateObjectMapping: 0.016197 ms MarkObjects: 0.139061 ms  DeleteObjects: 0.010666 ms)
+
+The referenced script on this Behaviour (Game Object 'MENUCTRL') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.247308 ms
+
+Unloading 127 unused Assets to reduce memory usage. Loaded Objects now: 300.
+Total: 1.921581 ms (FindLiveObjects: 0.033975 ms CreateObjectMapping: 0.047802 ms MarkObjects: 0.218864 ms  DeleteObjects: 1.619753 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.526617 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 332.
+Total: 0.598123 ms (FindLiveObjects: 0.073481 ms CreateObjectMapping: 0.025283 ms MarkObjects: 0.479605 ms  DeleteObjects: 0.018962 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: da8 -> priority: 1 
+  Thread -> id: 1c30 -> priority: 1 
